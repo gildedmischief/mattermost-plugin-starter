@@ -1,0 +1,19 @@
+{
+  "name": "mattermost-plugin-starter",
+  "version": "1.0.0",
+  "description": "This plugin serves as a starting point for writing a Mattermost plugin. Feel free to base your own plugin off this repository.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gildedmischief/mattermost-plugin-starter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gildedmischief/mattermost-plugin-starter/issues"
+  },
+  "homepage": "https://github.com/gildedmischief/mattermost-plugin-starter#readme"
+}
