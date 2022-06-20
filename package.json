@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/gildedmischief/mattermost-plugin-starter/issues"
   },
-  "homepage": "https://github.com/gildedmischief/mattermost-plugin-starter#readme"
+  "homepage": "https://github.com/gildedmischief/mattermost-plugin-starter#readme",
+  "dependencies": {
+    "@babel/core": "^7.18.5",
+    "@babel/plugin-transform-runtime": "^7.18.5",
+    "@babel/polyfill": "^7.12.1"
+  }
 }
